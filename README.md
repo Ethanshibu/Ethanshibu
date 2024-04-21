@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethanshibu
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on PROJECTS of my interest 
+- 🌱 Learning AI and ML
+- 💞️ Looking to collaborate on PROJECTS of my interest 
 - 📫 How to reach me ethan.shibu.issac@gmail.com
 
 <!---
