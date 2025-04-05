@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ethan Shibu  
-I'm a Machine Learning & AI Enthusiast currently working on building ML models from scratch.  
-I enjoy breaking down complex algorithms and implementing them using only NumPy and raw Python—no shortcuts!
+I'm a Machine Learning & AI Enthusiast currently working on building ML models.
+I enjoy breaking down complex algorithms and implementing them from scratch.
 
 ## 🔥 What I'm working on:
 - 🚀 **Machine Learning from Scratch** – Implementing regression, neural networks, and more without libraries like Scikit-Learn  
