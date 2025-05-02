@@ -1,6 +1,6 @@
 # Hey There! I'm Ethan Shibu
 
-## 💫 About Me:
+## 💫 About Me;
 <br>🎓 BTech student passionate about technology and continuous learning.<br>
 <br>💻 Currently building machine learning algorithms from scratch to master foundational concepts.<br>
 <br>🌱 Actively exploring coding challenges, personal projects, and collaborations to expand my skills.<br>
