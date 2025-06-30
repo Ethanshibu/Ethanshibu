@@ -6,6 +6,8 @@
 <br>🌱 Actively exploring coding challenges, personal projects, and collaborations to expand my skills.<br>
 <br>🚀 Focused on applying my knowledge in real-world scenarios and seeking opportunities to grow professionally.<br><br>
 
+![](https://komarev.com/ghpvc/?username=Ethanshibu&abbreviated=true)
+
 # 💻 Tech Stack:
 
 ## Programming Languages:
